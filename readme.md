@@ -14,25 +14,25 @@ npm i -D webpack webpack-cli
 ```bash
 npm i -D babel-loader @babel/core @babel/preset-env
 ```
-Check webpack.config.js 
+*asterisks*Check webpack.config.js 
 
 ### 4. Install Webpack-dev-server
 ```bash
 npm i -D webpack-dev-server
 ```
-Check package.json
+*asterisks*Check package.json
 
 ### 5. Install HTML webpack plugin and HTML loader
 ```bash
 npm i -D html-webpack-plugin html-loader
 ```
-Check webpack.config.js
+*asterisks*Check webpack.config.js
 
 ### 6. Install file loader for images
 ```bash
 npm i -D file-loader
 ```
-Check webpack.config.js
+*asterisks*Check webpack.config.js
 
 ### 7. Install support for SASS and loaders
 ```bash
