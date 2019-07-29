@@ -1,9 +1,11 @@
 # Install & Configure webpack step-by-step
 
-1. Create a default package.json
-```npm init -y```
+### 1. Create a default package.json
+```bash
+npm init -y
+```
 
-2. Install webpack
+### 2. Install webpack
 ```npm i -D webpack webpack-cli```
 
 3. Install Babel and Babel loader
